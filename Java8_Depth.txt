@@ -9,7 +9,7 @@
   :: Method reference & constructor reference
   No relation between C++ and Java
 9)Stream API
-10)Date & Time API(Joda API) introducted by joda.org
+10)Date & Time API(Joda API) introduced by joda.org
 
 
 1.0 major version
@@ -26,10 +26,10 @@
 ----------------------
 1)To simplify programming(very less code)
 2)To utilize Functional programming benefits in Java.
-Functional programming in the form Lambda expression.
-Still Java is object oriented only.
+  Functional programming in the form Lambda expression.
+  Still Java is object oriented only.
 3)To enable parallel programming
-so that my program should use multicore processor.
+  so that my program should use multicore processor.
 
 
 
